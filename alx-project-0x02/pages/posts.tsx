@@ -1,4 +1,5 @@
-import Header from "@/components/layout/Header" 
+import Header from '../components/layout/Header';
+
 export const Posts: React.FC = () => {
     return (
         <div>
