@@ -1,5 +1,5 @@
 import Card from "@/components/common/Card"
-import Header  from "@/components/layout/Header"
+import Header from "@/components/layout/Header"
 
 import { PostModal } from "@/components/common/PostModal";
 export const Home: React.FC = () => {
