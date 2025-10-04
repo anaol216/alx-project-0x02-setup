@@ -1,7 +1,7 @@
 
 
 ````markdown
-# 📦 ALX Next.js Project Setup
+# Next.js Project Setup and Basics
 
 This repository contains the setup for a **Next.js project** as part of the ALX Software Engineering Program.  
 The goal is to practice frontend development concepts, modern React (via Next.js), and deployment workflows.  
