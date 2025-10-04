@@ -1,9 +1,9 @@
-
+import {Card} from "@/components/common/Card"
 export const Home: React.FC = () => {
     return (
         <div>
             <h1>Welcome to the Home Page</h1>
-            <p>This is a sample home page component.</p>
+            <Card title="Sample Card" content="This is a sample card component." />
         </div>
     );
 }
