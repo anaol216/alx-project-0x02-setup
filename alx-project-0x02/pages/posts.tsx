@@ -1,0 +1,9 @@
+import Header from "@/components/common/Header"
+export const Posts: React.FC = () => {
+    return (
+        <div>
+            <h1>Posts Page</h1>
+            <p>This is a sample posts page component.</p>   
+        </div>
+    );
+}   

@@ -1,4 +1,7 @@
 import Button from "@/components/common/Button"
+import Header   from "@/components/common/Header"
+
+
 
 export const About: React.FC = () => {
     return (
