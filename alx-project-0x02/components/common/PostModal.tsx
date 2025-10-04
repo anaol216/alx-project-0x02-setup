@@ -1,7 +1,7 @@
 import { CardProps } from "@/interfaces";
 
 
-export const PostModel: React.FC<CardProps> = () => {
+export const PostModal: React.FC<CardProps> = () => {
     return (
         <div>
             <h1>Post Model Component</h1>   
