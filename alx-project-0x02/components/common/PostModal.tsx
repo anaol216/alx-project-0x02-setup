@@ -1,11 +1,17 @@
 import { CardProps } from "@/interfaces";
 
 
-export const PostModal: React.FC<CardProps> = () => {
+export const PostModal: React.FC = () => {
     return (
         <div>
-            <h1>Post Model Component</h1>   
-            <p>This is a sample post model component.</p>
+            <h1>Post Model Component</h1>
+            <form action="">
+                <label htmlFor="name"></label>  
+                <input type="text" name = "name" placeholder="name" />
+                <button>Submit</button>
+            </form>
+           
+            
         </div>
     );
 }
